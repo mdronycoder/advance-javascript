@@ -4,7 +4,7 @@
 // double equal match there (1 == true)  and (false == 0) and (2=="2");
 
 
-//triple equal will check type and value
+//triple equal will check type and value. that is very strick method If doesn't match. that false.
 
 const first = 1;
 const second = true;
